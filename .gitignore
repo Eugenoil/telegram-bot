@@ -11,6 +11,7 @@
 .idea/**/shelf
 
 # AWS User-specific
+.idea
 .idea/**/aws.xml
 
 # Generated files
