@@ -1,0 +1,8 @@
+1) /openTrack- открывает простор для записи твоего таска
+2) /startTrack - стартует время таска
+3) /pauseTrack - ставит на паузу таск
+4) /readTask - изменить текущий таск (перезаписывает содержимое)
+5) /closeTrack - закрывает и отправляет в бд (фиксирует время закрытия)
+6) /showAllTrack
+7) /showAllActiveTrack
+8) /showAllInActiveTrack
